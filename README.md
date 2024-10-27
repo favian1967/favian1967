@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi, im favi;
 
+I've had a passion for programming and exploring emerging technologies for quite some time. Currently, I'm diving into several programming languages, including Python, C#, and JS;
+Java is on my radar for future exploration, as I aim to broaden my skill set. I utilize GitHub to manage and showcase my projects, which allows me the flexibility to work from anywhere. Looking ahead, I'm excited about the possibility of launching my own project to the public and sharing my innovations with the world;
+
+I am studying FrontEnd because I am interested in it, as well as because I know Backend (PHP and Django) to become a FullStack programmer
+
+I am currently studying to be a programmer.
 <!--
 **favian1967/favian1967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
