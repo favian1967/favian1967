@@ -1,22 +1,27 @@
-## Hi, im favi;
+Q, I'm favian
 
-I've had a passion for programming and exploring emerging technologies for quite some time. Currently, I'm diving into several programming languages, including Python, C#, and JS;
-Java is on my radar for future exploration, as I aim to broaden my skill set. I utilize GitHub to manage and showcase my projects, which allows me the flexibility to work from anywhere. Looking ahead, I'm excited about the possibility of launching my own project to the public and sharing my innovations with the world;
+I'm an motivated and aspiring Android Developer passionate about crafting high-quality and intuitive mobile applications. I have a understanding of the Android development lifecycle and constantly strive to optimize code and enhance the user experience.
 
-I am studying FrontEnd because I am interested in it, as well as because I know Backend (PHP and Django) to become a FullStack programmer
+My Core Skills & Technologies:
 
-I am currently studying to be a programmer.
-<!--
-**favian1967/favian1967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Programming Languages: Java, Kotlin, Python, C#
 
-Here are some ideas to get you started:
+    Android Development:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        Android SDK
+
+        Jetpack Compose
+
+        RESTful API integration (Retrofit)
+
+        Database management (SQL, Firebase)
+
+    Tools & Practices:
+
+        Git
+
+        GitHub
+
+What I Do:
+
+I develop native Android applications using modern approaches and best practices. I create elegant and functional user interfaces with Jetpack Compose. I'm adept at integrating applications with various APIs using Retrofit, and I effectively work with databases, including SQL and Firebase, for data storage and management. Furthermore, I actively use Git and GitHub for version control and efficient team collaboration on projects.
