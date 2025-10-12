@@ -33,26 +33,6 @@
 
 ---
 
-### 💡 About me
-- 🧑‍💻 17 y.o. self-taught developer learning Android & backend development  
-- 🎧 Building a **music player app** with covers, list of songs, and a mini-player  
-- 🧩 Love experimenting with **UI/UX**, **coroutines**, and **API integrations**  
-- ☕ Exploring **Spring Boot** and **Hibernate** to connect apps with databases  
-- 🎯 Goal: become a confident full-stack Kotlin + Java developer  
-
----
-
-### 🚀 My projects
-
-| 🧠 Project | ⭐ Description | ⚙️ Tech stack |
-|------------|----------------|---------------|
-| 🎵 **Simple Music Player** | Music app with album covers, list of tracks, and mini-player | Kotlin · Android Studio · MediaPlayer · RecyclerView |
-| 🧮 **Simple Calculator** | Calculator built with Jetpack Compose | Kotlin · Compose UI |
-| 🔍 **Lost Tracker** | Remote control prototype to find lost things | Kotlin · Bluetooth · Sound API |
-| 🌱 **Spring REST API Starter** | Simple backend for testing Android network features | Spring Boot · Hibernate · REST · H2 |
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=faviann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -62,19 +42,18 @@
 ---
 
 ### 🏆 Latest achievements
-- ✅ Built a working **mini-player** component in Android  
-- ✅ Implemented **album art** display and data loading from device  
-- ✅ Learned **Git**, **GitHub**, and **Spring Boot basics**  
-- 🔜 Planning to release my first **full Android + backend** app
-
+=
+=
+=
+=
 ---
 
 ### 📫 Connect with me
 <p align="center">
-  <a href="mailto:faviann.dev@gmail.com">
+  <a href="marylove3i@rambler.ru">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/faviann">
+  <a href="https://t.me/Guarans">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://github.com/faviann">
@@ -84,4 +63,4 @@
 
 ---
 
-⭐ *If you like my projects, feel free to give them a star — it helps a lot!*
+ *If you like my projects, feel free to give them a star — it helps a lot!*
