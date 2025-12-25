@@ -33,13 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=faviann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faviann&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ### 🏆 Latest achievements
 =
