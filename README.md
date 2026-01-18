@@ -1,7 +1,7 @@
-## Hi, I'm favian1967 👋
+##  Hiii, I'm favian
 
 Junior Backend Developer (Java / Spring).  
-Looking for a junior / intern backend position.
+Open to junior backend opportunities
 
 ---
 
@@ -16,12 +16,8 @@ Looking for a junior / intern backend position.
 ---
 
 ### Projects
-- **AI Chat Backend (Ollama)**  
-  Backend service for chatting with a locally hosted LLM.  
-  JWT auth, PostgreSQL, Docker, REST API.
-
 - **Banking API (Pet Project)**  
-  Accounts, cards, users, JWT authorization, error handling, tests.
+  Accounts, cards, users, JWT authentication, error handling, tests.
 
 - **Algorithms practice**  
   LeetCode / NeetCode (Easy / basic Medium).
@@ -37,4 +33,5 @@ Looking for a junior / intern backend position.
 
 ### Contact
 - Telegram: https://t.me/Guarans  
-- Email: marylove3i@rambler.ru
+- Email: dpastuhov1967@gmail.com
+- X: https://x.com/Favian4747
