@@ -17,7 +17,7 @@ Open to junior backend opportunities
 
 ### Projects
 - **Banking API (Pet Project)**  
-  Accounts, cards, users, JWT authentication, error handling, tests.
+  Accounts, cards, users, JWT authentication, error handling, tests, ddos security, sender.
 
 - **Algorithms practice**  
   LeetCode / NeetCode (Easy / basic Medium).
