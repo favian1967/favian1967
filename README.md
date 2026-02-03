@@ -32,6 +32,6 @@ Open to junior backend opportunities
 ---
 
 ### Contact
-- Telegram: https://t.me/Guarans  
-- Email: dpastuhov1967@gmail.com
+- Telegram: @Rafink  
+- Email: dpastuhovj@gmail.com
 - X: https://x.com/Favian4747
