@@ -12,6 +12,7 @@ Open to junior backend opportunities
 - Docker / Docker Compose
 - Testing: JUnit, Mockito, Testcontainers
 - Git / GitHub
+- Appache Kafka
 
 ---
 
