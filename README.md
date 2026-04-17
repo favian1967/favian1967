@@ -7,9 +7,9 @@ Open to junior backend opportunities
 
 ### Tech Stack
 - Java, Spring Boot, Spring Security (JWT)
-- PostgreSQL, JPA / Hibernate, Liquidbase
+- PostgreSQL, JPA / Hibernate, Liquibase, Redis
 - REST API
-- Docker / Docker Compose
+- Docker / Docker Compose, k6 testing
 - Testing: JUnit, Mockito, Testcontainers
 - Git / GitHub
 - Appache Kafka
