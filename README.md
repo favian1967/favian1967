@@ -1,38 +1,45 @@
-##  Hey There!🤌🏻
+# Hey There! 🤌🏻
 
-Junior Backend Developer (Java / Spring).  
-Open to junior backend opportunities
+**Full-Stack Developer (Python / Java / React)**
+
+Building SaaS platforms, AI applications, banking systems, and Telegram automation.
+
+Open to opportunities.
 
 ---
 
 ### Tech Stack
-- Java, Spring Boot, Spring Security (JWT)
-- PostgreSQL, JPA / Hibernate, Liquibase, Redis
-- REST API
-- Docker / Docker Compose, k6 testing
-- Testing: JUnit, Mockito, Testcontainers
-- Git / GitHub
-- Appache Kafka
+
+- **Backend:** Python (Django, DRF, FastAPI), Java (Spring Boot, Spring Security)
+- **Frontend:** React, TypeScript, Vite
+- **Databases:** PostgreSQL, Redis
+- **Infrastructure:** Docker, Nginx, GitHub Actions
+- **Messaging:** Kafka, Celery, asyncio
+- **Testing:** JUnit, Mockito, Testcontainers, k6
 
 ---
 
 ### Projects
-- **Banking API (Pet Project)**  
-  Accounts, cards, users, JWT authentication, error handling, tests, ddos security, sender.
 
-- **Algorithms practice**  
-  LeetCode / NeetCode (Easy / basic Medium).
+-  Aurora Bank
+-  BookFlow (Multi-tenant SaaS)
+-  TutorSpace
+-  AI Sales Assistant
+-  Telegram Auto Service
+-  Kwork Monitor
 
 ---
 
 ### Currently
-- Improving data structures & algorithms
-- Preparing for backend interviews
-- Working on team backend project
+
+- Building scalable backend systems
+- Exploring AI & LLM integrations
+- Improving System Design & Algorithms
 
 ---
 
 ### Contact
-- Telegram: @Rafink  
+
+- Telegram: @Rafink
 - Email: dpastuhovj@gmail.com
 - X: https://x.com/Favian4747
